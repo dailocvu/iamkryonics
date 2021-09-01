@@ -4,7 +4,8 @@
 🌱 I'm on track for learning React.js, Redux, UI/UX design and all about Front-end development. \
 ✍️ In my free time, I reading book, running, watching anime and stargazing (at night :'>)...\
 ⚡ I want to become a Creative Front-end Developer.\
-📄 You can check my [Resume]() for more details. (update soon).
+📄 You can check my [Resume]() for more details. (update soon).\
+✉️ You can email me at vdloc.hcmus@gmail.com
 
 ### 🛠 Tech stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
