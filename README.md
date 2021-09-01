@@ -4,7 +4,7 @@
 🌱 I'm on track for learning React.js, Redux, UI/UX design and all about Front-end development. \
 ✍️ In my free time, I reading book, running, watching anime and stargazing (at night :'>)...\
 ⚡ I want to become a Creative Front-end Developer.\
-📄 You can check my [Resume]() for more details. (update soon).\
+📄 You can check my [Resume]() for more details. (update soon).
 
 ### 🛠 Tech stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +22,7 @@
 
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/vdloc/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vdloc.hcmus@gmail.com"><img alt="Gmail" src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:vdloc.hcmus@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkryonics&layout=compact)](https://github.com/iamkryonics/github-readme-stats)
