@@ -24,7 +24,8 @@
 <a href="https://www.linkedin.com/in/vdloc/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vdloc.hcmus@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 
-
+<br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkryonics&layout=compact)](https://github.com/iamkryonics/github-readme-stats)
 
 
