@@ -6,16 +6,16 @@
 ⚡ I want to become a Creative Front-end Developer
 
 ### 🛠 Tech stack 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badget&logo=bootstrap&logoColor=563D7C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
