@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/38421410/131677006-e81ce284-71ba-4751-aa10-5c378d1fcf6b.png)
+![banner](https://user-images.githubusercontent.com/38421410/131691543-158fdf99-7910-47c1-a50c-630aa6064ecd.png)
 ### Hi there 👋
 🔭 I’m currently a student at VNUHCM - University of Science. \
 🌱 I'm on track for learning React.js, Redux, UI/UX design and all about Front-end development. \
