@@ -1,5 +1,5 @@
+![banner](https://user-images.githubusercontent.com/38421410/131676266-eaa68b80-8d87-402b-890e-13b4beb8e66e.png)
 ### Hi there 👋
-![banner](https://user-images.githubusercontent.com/38421410/131675760-cad7665c-794e-4e54-b1cd-1a3e8cce1298.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkryonics&layout=compact)](https://github.com/iamkryonics/github-readme-stats)
 
