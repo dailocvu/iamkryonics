@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![iamkryonics's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkryonics&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkryonics&langs_count=8)](https://github.com/iamkryonics/github-readme-stats)
+
 
 <!--
 **iamkryonics/iamkryonics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
