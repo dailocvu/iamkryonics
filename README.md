@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkryonics&langs_count=8)](https://github.com/iamkryonics/github-readme-stats)
+[![iamkryonics's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamkryonics)](https://github.com/iamkryonics/github-readme-stats)
+
 
 
 <!--
