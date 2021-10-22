@@ -3,7 +3,7 @@
 🔭 I’m currently a student at VNUHCM - University of Science. \
 🌱 I'm on track for learning React.js, Redux, UI/UX design and all about Front-end development. \
 ✍️ In my free time, I reading book, running, watching anime and stargazing (at night :'>)...\
-⚡ I want to become a Creative Front-end Developer.\
+⚡ I want to become a Creative Front-End Developer.\
 📄 You can check my [Resume]() for more details. (update soon).\
 ✉️ You can email me at vdloc.hcmus@gmail.com
 
