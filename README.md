@@ -1,8 +1,8 @@
 ![banner](https://user-images.githubusercontent.com/38421410/131691543-158fdf99-7910-47c1-a50c-630aa6064ecd.png)
 ### Hi there 👋
-🔭 I’m currently a student at VNUHCM - University of Science. \
-🌱 I'm on track for learning React.js, Redux, UI/UX design and all about Front-end development. \
-✍️ In my free time, I reading book, running, watching anime and stargazing (at night :'>)...\
+🔭 I’m currently a student at VNUHCM - University of Science.\
+🌱 I'm on track for learning ReactJS, NextJS, Redux, UI/UX design and all about Front-End development.\
+✍️ In my free time, I reading book, running, watching anime, listening to music and stargazing (at night (●'◡'●)).\
 ⚡ I want to become a Creative Front-End Developer.\
 📄 You can check my [CV](https://drive.google.com/file/d/15xOowIS474UEcZg7wfFnKFgzGSkldydS/view?usp=sharing) for more details.\
 ✉️ You can email me at vdloc.hcmus@gmail.com
