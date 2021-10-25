@@ -4,7 +4,7 @@
 🌱 I'm on track for learning React.js, Redux, UI/UX design and all about Front-end development. \
 ✍️ In my free time, I reading book, running, watching anime and stargazing (at night :'>)...\
 ⚡ I want to become a Creative Front-End Developer.\
-📄 You can check my [Resume]() for more details. (update soon).\
+📄 You can check my [CV](https://drive.google.com/file/d/15xOowIS474UEcZg7wfFnKFgzGSkldydS/view?usp=sharing) for more details.\
 ✉️ You can email me at vdloc.hcmus@gmail.com
 
 ### 🛠 Tech stack 
@@ -16,6 +16,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
